@@ -131,12 +131,12 @@
         {
             "mimeType" : "image/png",
             "name" : "package_Mat Layer Stack_baseColor_Light",
-            "uri" : "https://github.com/RafaelReis891/Web_Models/blob/main/package_Mat%20Layer%20Stack_baseColor_Light.png"
+            "uri" : "https://github.com/RafaelReis891/Web_Models/blob/eb1d319198208091471fbcff77d4cbe687a46491/package_Mat%20Layer%20Stack_baseColor_Light.png"
         },
         {
             "mimeType" : "image/png",
             "name" : "package_Mat Layer Stack_normal",
-            "uri" : "https://github.com/RafaelReis891/Web_Models/blob/main/package_Mat%20Layer%20Stack_normal.png"
+            "uri" : "https://github.com/RafaelReis891/Web_Models/blob/eb1d319198208091471fbcff77d4cbe687a46491/package_Mat%20Layer%20Stack_normal.png"
         }
     ],
     "accessors" : [
