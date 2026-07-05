@@ -1,1 +1,1 @@
-<size=26><color=yellow>NOVIDADES</color></size>\n<b>Nova atualização disponível!</b>\n<size=18>Confira as novidades e melhorias que preparamos para você.</size>
+<b>Nova atualização disponível!</b>\n<size=18>Confira as novidades e melhorias que preparamos para você.</size>
