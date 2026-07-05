@@ -1,1 +1,1 @@
-Seja bem vindo ao Real Farm Simulator!
+Seja bem vindo ao <b><size=36><color=yellow>Real Farm Simulator!</color></size></b>
